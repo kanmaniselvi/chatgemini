@@ -1,32 +1,32 @@
 ChatApp
 
-Simple Chat Application
+# Simple Chat Application
 ChatApp is a lightweight and interactive web application that allows users to chat in real-time (frontend simulation). Built using HTML, CSS, and JavaScript, it provides a clean and responsive interface for chatting.
 
-Features
-Simple and clean chat interface
+# Features
+  # Simple and clean chat interface
 
-Type messages and view them instantly
+  # Type messages and view them instantly
 
-Responsive design for mobile and desktop
+  # Responsive design for mobile and desktop
 
-Fully frontend-based (no backend required)
+  # Fully frontend-based (no backend required)
 
-Tech Used
-Frontend: HTML, CSS, JavaScript
+# Tech Used
+#Frontend: HTML, CSS, JavaScript
 
-IDE: Visual Studio Code
+# IDE: Visual Studio Code
 
 Challenges:
-Handling real-time message updates without backend:
+  # Handling real-time message updates without backend:
 
-Maintaining responsive UI across devices:
+  # Maintaining responsive UI across devices:
 
-Avoiding message input bugs (empty messages, enter key issues):
+   #Avoiding message input bugs (empty messages, enter key issues):
 
-Domain
+# Domain
 (Add live demo) https://kanmaniselvi.github.io/chatgemini/
 
-Author
+# Author
 
 [Kanmani] kanmaniselvi@gmail.com
