@@ -18,11 +18,11 @@ ChatApp is a lightweight and interactive web application that allows users to ch
 # IDE: Visual Studio Code
 
 Challenges:
-  # Handling real-time message updates without backend:
+   Handling real-time message updates without backend:
 
-  # Maintaining responsive UI across devices:
+   Maintaining responsive UI across devices:
 
-   #Avoiding message input bugs (empty messages, enter key issues):
+   Avoiding message input bugs (empty messages, enter key issues):
 
 # Domain
 (Add live demo) https://kanmaniselvi.github.io/chatgemini/
